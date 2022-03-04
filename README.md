@@ -1,5 +1,5 @@
 # CODEEDUCATION
 
 ```
-docker run my/hello-golang
+docker run yrcunha/codeeducation
 ```
